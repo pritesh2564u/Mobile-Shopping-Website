@@ -19,3 +19,7 @@ Mobile applications have revolutionized the way people shop for products, making
 - Configure the SQL Server Database and update Connection string in Web.config file with you Connection string.
 - Create tables given in the Repository
 - Build and run the Project
+
+## 🧑🏻‍💻 Technology Used 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,tailwind)](https://skillicons.dev)
+
